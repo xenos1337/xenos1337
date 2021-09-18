@@ -4,6 +4,4 @@
 	</a>
 </p>
 
-<p align="center">
 ![Metrics](https://raw.githubusercontent.com/xenos1337/xenos1337/main/github-metrics.svg)
-</p>
