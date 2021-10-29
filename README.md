@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://github.com/xenos1337">
-		<img src="https://discord.c99.nl/widget/theme-4/259853201359110144.png"/>
+		<img src="https://discord.c99.nl/widget/theme-4/392045835053039636.png"/>
 	</a>
 </p>
 
