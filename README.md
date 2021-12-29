@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/xenos1337">
-        <img src="https://discord-readme.vercel.app/api/392045835053039636"/>
+        <img src="https://discord-readme.vercel.app/api/903728123676360727"/>
     </a>
 </p>
 
