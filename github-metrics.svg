@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1730 Commits
+                            1731 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -427,14 +427,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="333.0644079310628" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="333.0644079310628" y="0" width="84.88052942642761" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="417.94493735749046" y="0" width="13.300895594237403" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="431.24583295172783" y="0" width="11.061321725428702" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="442.3071546771566" y="0" width="6.554673823681124" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="448.86182850083765" y="0" width="6.427772381359383" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="455.289600882197" y="0" width="3.779651553657898" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="459.06925243585493" y="0" width="0.930747564145056" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="333.0645339348584" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="333.0645339348584" y="0" width="84.88044516898096" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="417.94497910383933" y="0" width="13.300882390979734" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="431.24586149481905" y="0" width="11.061310745304855" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="442.3071722401239" y="0" width="6.554667317123215" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="448.86183955724715" y="0" width="6.427766000771371" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="455.28960555801854" y="0" width="3.779647801751644" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="459.06925335977013" y="0" width="0.9307466402298334" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -510,7 +510,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#32a4549</div>
+                                        <div class="sha">#50df969</div>
                                         <div class="message">Update Download.js</div>
                                     </div>
                                 </div>
@@ -530,8 +530,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6635c05</div>
-                                        <div class="message">Update Home.scss</div>
+                                        <div class="sha">#32a4549</div>
+                                        <div class="message">Update Download.js</div>
                                     </div>
                                 </div>
                             </section>
@@ -541,7 +541,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Mar 2022, 00:13:46  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 27 Mar 2022, 00:31:27  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
