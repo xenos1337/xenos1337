@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/xenos1337">
-        <img src="https://lanyard-profile-readme.vercel.app/api/738448315678457896?bg=0d1117&borderRadius=0"/>
+        <img src="https://lanyard-profile-readme.vercel.app/api/171738401677115392?bg=0d1117&borderRadius=0"/>
     </a>
 </p>
 
