@@ -1,6 +1,6 @@
 <p align="center">
     <a href="discord://-/users/925128443090313226">
-        <img src="https://lanyard-profile-readme.vercel.app/api/925128443090313226?bg=0d1117&borderRadius=0"/>
+        <img src="https://lanyard-profile-readme.vercel.app/api/925128443090313226?bg=0000000&borderRadius=0&idleMessage=%20"/>
     </a>
 </p>
 
