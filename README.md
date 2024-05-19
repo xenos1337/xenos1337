@@ -1,6 +1,6 @@
 <p align="center">
     <a href="discord://-/users/830866889885745233">
-        <img src="https://discord-readme.vercel.app/api/830866889885745233?bg=0000000&borderRadius=0"/>
+        <img src="https://discord-readme.vercel.app/api/830866889885745233?bg=0000000&idleMessage="/>
     </a>
 </p>
 
